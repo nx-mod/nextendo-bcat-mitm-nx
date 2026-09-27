@@ -1,0 +1,12 @@
+.vscode/*
+build/*
+out/*
+deploy/*
+
+*.elf
+*.nso
+*.npdm
+# Game binaries and RE captures pulled from the console - never commit
+capture/
+# Third-party reference copies (e.g. bl-sdk/unrealsdk, LGPL) - read, not vendored
+refs/
