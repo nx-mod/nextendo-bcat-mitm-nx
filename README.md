@@ -1,5 +1,7 @@
 # nextendo-bcat-mitm-nx
 
+*(still in alpha testing)*
+
 **A new console module by nx-mod** for the Nextendo Network.
 
 An **exlaunch** module that makes a Nintendo Switch accept BCAT delivery-cache
