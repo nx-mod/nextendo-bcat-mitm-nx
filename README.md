@@ -97,3 +97,7 @@ open items, most importantly confirming that the server's signature *scheme*
 
 Follows the exlaunch framework's licence (see `LICENSE`). Not affiliated with
 Nintendo. Use it on hardware you own.
+
+## Credits
+
+Built by nx-mod for the **Nextendo Network**, on the work of the Nextendo Network team — https://nextendo.network. Nextendo is awesome.
